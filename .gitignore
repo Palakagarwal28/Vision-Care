@@ -1,0 +1,15 @@
+dataset/
+eye_model.pth
+__pycache__/
+*.pyc
+static/uploads/*
+static/heatmaps/*
+!static/uploads/.gitkeep
+!static/heatmaps/.gitkeep
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+.DS_Store
+black_test.jpg
+noise_test.jpg
+white_test.jpg
